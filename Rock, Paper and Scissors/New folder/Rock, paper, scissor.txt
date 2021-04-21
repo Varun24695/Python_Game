@@ -1,0 +1,7 @@
+from tkinter import *
+
+# main window
+root = TK()
+root.title('Rock, paper, scissor')
+
+root.mainloop()
